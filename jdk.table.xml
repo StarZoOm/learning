@@ -1,0 +1,90 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\Program Files\Python\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python" type="simple" />
+            <root url="file://C:/Program Files/Python/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1879517127" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (tutorial)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\python_learning\tutorial\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python" type="simple" />
+            <root url="file://C:/python_learning/tutorial/venv" type="simple" />
+            <root url="file://C:/python_learning/tutorial/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/python_learning/tutorial/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://C:/python_learning/tutorial/venv/Lib/site-packages/pip-10.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1571818004" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/python_learning/tutorial" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (alien invasion)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\python_learning\alien invasion\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python" type="simple" />
+            <root url="file://C:/python_learning/alien invasion/venv" type="simple" />
+            <root url="file://C:/python_learning/alien invasion/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/python_learning/alien invasion/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1503654068" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/python_learning/alien invasion" />
+    </jdk>
+  </component>
+</application>

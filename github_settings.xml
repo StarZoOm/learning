@@ -1,0 +1,11 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="f7918385-1e0a-4f81-82f2-98525efc31ff" name="StarZoOm">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="OPEN_IN_BROWSER_GIST" value="false" />
+    <option name="PRIVATE_GIST" value="false" />
+  </component>
+</application>
